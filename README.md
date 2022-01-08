@@ -1,6 +1,6 @@
 ### Hey 👋, I'm Nadeem
 
-[![](https://vistr.dev/badge?repo=elfocrash.elfocrash&corners=square)](https://github.com/Elfocrash/vistr.dev)
+[![](https://vistr.dev/badge?repo=nadeemlari.nadeemlari&corners=square)](https://github.com/Elfocrash/vistr.dev)
 [![](https://vistr.dev/patreon?campaign_id=5874364)](https://www.patreon.com/nickchapsas)
 [![](https://img.shields.io/badge/-@nickchapsas-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/nickchapsas)
 [![](https://img.shields.io/badge/-@elfocrash-%23181717?style=flat-square&logo=github)](https://github.com/elfocrash)
